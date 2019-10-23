@@ -12,7 +12,7 @@ Read more about the project detailed description from the [Odin website](https:/
 
 ### [Assingment Link](https://www.theodinproject.com/courses/html5-and-css3/lessons/design-your-own-grid-based-framework)
 
-### [Live link]()
+### [Live link](https://grifo89.github.io/CSS-Framework/)
 
 # Languages Used
 
